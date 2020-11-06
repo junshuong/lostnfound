@@ -65,4 +65,5 @@ fun updateItem() {
 
 fun listAllItems() {
     println("You chose List all Items")
+    println()
 }
